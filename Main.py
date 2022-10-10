@@ -19,7 +19,8 @@ def merge_sort(data):
             k=k+1
 
         while i < len(lefthalf):
-            data[k]=lefthalf[i]
+            data[k]=l
+            f[i]
             i=i+1
             k=k+1
 
